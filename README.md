@@ -1,6 +1,6 @@
 # Previsão de preços de imóveis com rede neural
 
-Projeto de estudo em que treino uma rede neural (Keras/TensorFlow) para prever o valor mediano das casas de uma região da Califórnia, comparando com uma regressão linear como baseline.
+Projeto de estudo em que uma rede neural (Keras/TensorFlow) prevê o valor mediano das casas de uma região da Califórnia, comparando com uma regressão linear como baseline.
 
 ## Dados
 
