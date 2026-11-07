@@ -45,7 +45,3 @@ A rede neural erra em média cerca de US$ 35 mil, contra US$ 53 mil da regressã
 - Testar outras arquiteturas e ajustar hiperparâmetros
 - Validação cruzada
 - Comparar com Random Forest e Gradient Boosting, que costumam ir muito bem em dados tabulares
-
-## Como rodar
-
-Abra o `notebook.ipynb` no Google Colab, ou instale as dependências com `pip install -r requirements.txt` e rode localmente no Jupyter.
