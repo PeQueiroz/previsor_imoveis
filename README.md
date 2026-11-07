@@ -24,7 +24,7 @@ Dataset *California Housing* (scikit-learn), baseado no censo americano de 1990.
 A rede neural erra em média cerca de US$ 35 mil, contra US$ 53 mil da regressão linear.
 
 ![Real vs previsto](imagens/real_vs_previsto.png)
-![Curva de treino](imagens/curva_treino.png)
+![Curva de treino](imagens/curva_de_treino.png)
 
 ## Observações
 
