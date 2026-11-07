@@ -39,9 +39,3 @@ A rede neural erra em média cerca de US$ 35 mil, contra US$ 53 mil da regressã
 - O alvo é por região, não por imóvel individual.
 - A saída da rede não é restrita e pode gerar valores sem sentido (ex.: negativos).
 - Usei uma única divisão treino/teste e uma única execução, sem medir a variação entre sementes.
-
-## Próximos passos
-
-- Testar outras arquiteturas e ajustar hiperparâmetros
-- Validação cruzada
-- Comparar com Random Forest e Gradient Boosting, que costumam ir muito bem em dados tabulares
